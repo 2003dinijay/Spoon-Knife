@@ -1,37 +1,20 @@
-* {
-  margin:0px;
-  padding:0px;
-}
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <title>Spoon-Knife</title>
+  <link href="styles.css" rel="stylesheet" type="text/css">
+</head>
 
-#octocat {
-  display: block;
-  width:384px;
-  margin: 50px auto;
-}
+<body>
 
-p {
-  display: block;
-  width: 400px;
-  margin: 50px auto;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+<div id="octocat">
+  <img src="https://octodex.github.com/images/NUX_Octodex.gif" alt="Octocat Image">
+</div>
 
-color: #333;
-line-height: 1.5;
-text-align: center;
-}
+<p>
+  Ready to team up? Let's collaborate, @octocat!
+</p>
 
-body {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background-color: #f8f9fa;
-}
-
-#octocat img {
-  display: block;
-  width: 100%;
-  height: auto;
-}
-
-  
-}
-
-
+</body>
+</html>
